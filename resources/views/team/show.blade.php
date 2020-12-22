@@ -30,7 +30,7 @@
         </div>
       </div>
        @endforeach
-       @foreach ($team->member as $member)
+       {{-- @foreach ($team->member as $member)
        <div class="col-md-4">
         <div class="card">
             <div class="card-header bg-blue">
@@ -73,7 +73,7 @@
 
         </div>
       </div>
-       @endforeach
+       @endforeach --}}
 
 
 
